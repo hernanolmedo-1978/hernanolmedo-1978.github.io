@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Hernán Olmedo González</title>
+  <style>
+    body { font-family: Arial; max-width: 800px; margin: 40px; }
+    nav a { margin-right: 15px; text-decoration: none; color: black; }
+  </style>
+</head>
+
+<body>
+
+<h1>Hernán Olmedo González</h1>
+<p>International Relations | Conflict | Power | Institutions</p>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="research.html">Research</a>
+  <a href="data.html">Data</a>
+  <a href="cv.pdf">CV</a>
+</nav>
+
+<hr>
+
+<h2>About</h2>
+<p>
+Research on international conflict, power distribution,
+strategic rivalries and international institutions.
+</p>
+
+</body>
+</html>
